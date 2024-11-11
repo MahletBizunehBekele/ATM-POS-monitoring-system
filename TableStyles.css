@@ -1,0 +1,60 @@
+/* styles.css */
+.table-container {
+    margin-top: 20px;
+    margin-left: 360px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #f4f4f4;
+}
+
+.table td {
+    background-color: #fff;
+}
+
+.table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+
+/* styles.css */
+.atmtable-container {
+    margin-top: 100px;
+    margin-left: 260px;
+}
+
+.atmtable {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+.atmtable th, .atmtable td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+    font-size:13.5px;
+}
+
+.atmtable th {
+    background-color: #fff;
+}
+
+
+
+.atmtable tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
